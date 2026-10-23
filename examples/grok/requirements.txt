@@ -1,0 +1,2 @@
+# Shared pinned runtime; no provider SDK required.
+-r ../requirements-voice-client.txt
